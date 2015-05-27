@@ -1,0 +1,10 @@
+//字体文件
+
+fonts/arial-unicode-26.fnt
+fonts/arial-unicode-26.png
+fonts/Marker Felt.ttf
+
+//音效文件
+gamewin.wav
+onclick.wav
+wrong.wav
